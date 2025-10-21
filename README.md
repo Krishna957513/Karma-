@@ -1,8 +1,8 @@
 🌟 KarmaPlatforms Smart Contract
-A Blockchain-Based Reputation & Reward System
+A Blockchain-Based Reputation and Reward System
 
-KarmaPlatforms.sol is a simple and transparent on-chain reputation platform where verified platforms can reward users with Karma points for good actions. These points act as non-transferable reputation tokens, building a public trust score for users across different dApps.
-
+KarmaPlatforms.sol is a decentralized reputation management system where verified platforms can reward users with Karma points for good actions.
+These Karma points act as non-transferable tokens of trust and reputation across different platforms and DApps.
 🧠 Overview
 
 The Karma Platforms system is built on the idea that reputation is more valuable than currency.
