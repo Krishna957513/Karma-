@@ -49,7 +49,7 @@ The KarmaPlatform smart contract allows users to:
 
 ---
 
-**📸 Proof of Work Image**
+**📸 Proof of Work Image**-https://github.com/Krishna957513/Karma-.git
 
 
 
