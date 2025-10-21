@@ -12,7 +12,6 @@ Each entry is timestamped, publicly visible, and stored forever as a transparent
 
 **🧩 Smart Contract Overview**
 
-File: karmaPlatform.sol
 
 The KarmaPlatform smart contract allows users to:
 
