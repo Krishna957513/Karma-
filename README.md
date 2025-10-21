@@ -55,15 +55,6 @@ The KarmaPlatform smart contract allows users to:
 
 
 ---
-
-🔗 Project Links
-
-GitHub Repository: https://github.com/YourGitHubUsername/karmaPlatform
-
-Smart Contract File: karmaPlatform.sol
-
-
-
 ---
 
 **💡 Inspiration**
